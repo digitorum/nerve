@@ -1,0 +1,19 @@
+{
+    "name": "nerve",
+    "version": "0.0.0",
+    "description": "An asynchronous javascript micro framework for event broadcasts along routes and channels.",
+    "main": "nerve.js",
+    "scripts": { },
+    "dependencies": { },
+    "optionalDependencies": { },
+    "devDependencies": { },
+    "browser": { },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jstandish/nerve.git"
+    },
+    "keywords": [
+    ],
+    "author": "jstandish",
+    "license": "MIT"
+}
